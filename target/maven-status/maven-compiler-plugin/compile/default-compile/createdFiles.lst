@@ -7,11 +7,16 @@ com\yangzai\boot\starter\config\SpringConfig.class
 com\yangzai\boot\starter\service\UserService.class
 com\yangzai\boot\starter\vo\UserDO.class
 com\yangzai\boot\starter\Main.class
+com\yangzai\boot\config\EtaConfig.class
 com\yangzai\shiro\realm\MyShiroRealm.class
+com\yangzai\log\LogApp.class
 com\yangzai\shiro\filter\SupportRoleOrFilter.class
 com\yangzai\shiro\vo\User.class
 com\yangzai\threadsafe\jdbc\ConnectionInstance.class
+com\yangzai\apollo\ApolloApp.class
 com\yangzai\shiro\web\MyExceptionResolver.class
+com\yangzai\boot\controller\TestController.class
+com\yangzai\boot\SpringBootDemo1Application.class
 com\yangzai\shiro\RedisSessionDao.class
 com\yangzai\shiro\utils\JedisUtil.class
 com\yangzai\boot\web\WebApplication.class

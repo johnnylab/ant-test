@@ -3,9 +3,9 @@ package com.yangzai.shiro;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+/*@SpringBootApplication*/
 public class ShiroApplication {
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		 SpringApplication.run(ShiroApplication.class, args);
-	}
+	}*/
 }
